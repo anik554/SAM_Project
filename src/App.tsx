@@ -1,11 +1,11 @@
-import LocationTrack from "./pages/LocationTrack"
+// import LocationTrack from "./pages/LocationTrack"
 import VisitStart from "./pages/VisitStart"
 
 function App() {
 
   return (
     <>
-      <LocationTrack />
+      {/* <LocationTrack /> */}
       <VisitStart />
     </>
   )
